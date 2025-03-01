@@ -69,7 +69,7 @@ This project was developed as part of a hands-on Data Science and AI course inte
     ```
 2. **Run the script**:
     ```
-    python fer_deepface.py
+    python emorec_deepface.py
     ```
 3. A window will open showing the webcam feed with the detected emotion displayed in green text.
 4. Press `q` to exit the application.
