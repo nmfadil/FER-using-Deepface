@@ -31,8 +31,8 @@ This project was developed as part of a hands-on Data Science and AI course inte
 
 1. **Clone the Repository**:
     ```
-    git clone https://github.com/[your-username]/[your-repo-name].git
-    cd [your-repo-name]
+    git clone https://github.com/nmfadil/FER-using-Deepface.git
+    cd FER-using-Deepface
     ```
 2. **Create a Virtual Environment**:
     ```
